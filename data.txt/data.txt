@@ -1,0 +1,16 @@
+background : radial-gradient(46.28% 66.31% at 66.95% 58.35%, #e6e6f7 0%, #e7edfa 50%, #e9fbfa 100%)
+
+Choisir un portefeuille
+Un portefeuille vous permet de vous connecter à Ethereum et de gérer vos fonds.
+
+Illustration représentant un groupe de personnes émerveillées devant un glyphe d'éther (ETH).
+Obtenir de l'ETH
+ETH est la monnaie d'Ethereum – vous pouvez l'utiliser dans des applications.
+
+Image d'un chien utilisant un ordinateur.
+Utiliser une dApp
+Les dApps sont des applications qui s'exécutent dans Ethereum. Voici ce que vous pouvez faire avec.
+
+Une illustration d'une main fabriquant un symbole ETH au moyen de briques de lego.
+Commencer à construire
+Si vous voulez commencer à coder avec Ethereum, nous avons de la documentation, des tutoriels, et plus encore sur notre portail développeur.
